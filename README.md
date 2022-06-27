@@ -3,16 +3,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/tapdata/idaas-pdk?style=social&label=Star&maxAge=2592000)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-## What is iDaaS
-
-Data as a service (DaaS) is a data management strategy that uses the cloud(or centralized data platform) to deliver data
-storage, integration, processing, and servicing capabilities in an on demand fashion.
-
-Tapdata iDaaS, or Incremental Data as a Service, is an open source implementation(Soon to be released) of the DaaS architecture that puts
-focus on the incremental updating capability of the data platform. Please refer to [Tapdata iDaaS Project](https://github.com/tapdata/idaas) for more information. 
-
-## What is PDK for iDaaS
-
 **PDK is Plugin Development Kit for iDaaS.** Provide an easier way to develop data source connectors
 
 * **Database connectors**
